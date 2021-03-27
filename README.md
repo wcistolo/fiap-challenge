@@ -1,5 +1,4 @@
 # Atividade de Plataformas Cognitivas Docker  
-__Prof. MSc. Elthon Manhas de Freitas__  
 
 ![alt text](images/capa.png)
 
